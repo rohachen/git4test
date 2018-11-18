@@ -1,3 +1,3 @@
 <?php
 
-php exec("whoami");
+php exec("git pull");
