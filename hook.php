@@ -1,0 +1,3 @@
+<?php
+
+php exec("whoami");
